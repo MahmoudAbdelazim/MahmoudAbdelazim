@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Abdelazim</h1>
-<h3 align="center">A passionate software engineer and computer science student</h3>
+<h3 align="center">A passionate software engineer and CS student</h3>
 
-- 🌱 I’m currently learning **Back-End development using the Spring Framework**
+- I'm a senior student at **Cairo university** studying computer science.
 
-- 📫 Reach me out using my e-mail: **mahmoud2011989@gmail.com**
+- I was an intern at **Microsoft Egypt**'s Development Center.
 
+- I’m currently learning **Back-End development** using Java and Spring Framework.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahmoudabdelazim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudabdelazim" height="30" width="40" /></a>
-<a href="https://twitter.com/abdel_aziim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdel_aziim" height="30" width="40" /></a>
-<a href="https://discord.gg/Azim#0011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Azim#0011" height="30" width="40" /></a>
-</p>
+- Reach me out using my e-mail: **mahmoud2011989@gmail.com**
+
+- Connect with me on Linkedin: **https://linkedin.com/in/mahmoudabdelazim**
+
 
 <h3 align="left">My tech-related profiles:</h3>
 <p align="left">

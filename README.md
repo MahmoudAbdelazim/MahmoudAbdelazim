@@ -5,7 +5,7 @@
 
 - Former Intern at **Microsoft Egypt**'s Development Center.
 
-- Bachelor's Degree in Computer Science form **Cairo university**.
+- Bachelor's Degree in Computer Science from **Cairo university**.
 
 - Reach me out using my e-mail: **mahmoud2011989@gmail.com**
 

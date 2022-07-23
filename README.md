@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Abdelazim</h1>
-<h3 align="center">A passionate software engineer and CS student</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 - Application Developer Intern at **IBM**.
 
 - Former Intern at **Microsoft Egypt**'s Development Center.
 
-- Senior student at **Cairo university** studying computer science.
-
-- Currently learning **Back-End development** using Java and Spring Framework though **ITI Tech Leaps** Program.
+- Bachelor's Degree in Computer Science form **Cairo university**.
 
 - Reach me out using my e-mail: **mahmoud2011989@gmail.com**
 

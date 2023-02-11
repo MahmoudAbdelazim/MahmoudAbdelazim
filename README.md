@@ -5,6 +5,8 @@
 
 - Former Intern at **Microsoft Egypt**'s Development Center.
 
+- Currently doing my mandatory military service week-on-week-off.
+
 - Bachelor's Degree in Computer Science from **Cairo university**.
 
 - Reach me out using my e-mail: **mahmoud2011989@gmail.com**

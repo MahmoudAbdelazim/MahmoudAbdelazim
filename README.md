@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Abdelazim</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-- Application Developer Intern at **IBM**.
+- Former Intern at **IBM**.
 
 - Former Intern at **Microsoft Egypt**'s Development Center.
 

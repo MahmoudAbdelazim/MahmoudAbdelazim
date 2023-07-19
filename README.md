@@ -7,7 +7,7 @@
 
 - Bachelor's Degree in Computer Science from **Cairo university**.
 
-- Currently doing my mandatory military service week-on-week-off.
+- Currently doing my mandatory military service, ending in February 2024.
 
 - Reach me out using my E-mail: **mahmoud2011989@gmail.com**
 

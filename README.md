@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Abdelazim</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-- Software Engineer at **Wind Integrated Solutions**.
+- Softwarre Engineer at **Siemens Digital Industries Software**.
 
-- Former Intern at **IBM** Egypt.
+- Former Software Engineer at **Wind Integrated Solutions**.
 
-- Former Intern at **Microsoft** Egypt.
+- Former Intern at **IBM** and **Microsoft**.
 
 - Bachelor's Degree in Computer Science from **Cairo university**.
 

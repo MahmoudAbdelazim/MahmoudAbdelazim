@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Abdelazim</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-- Softwarre Engineer at **Siemens Digital Industries Software**.
+- Software Engineer at **Siemens Digital Industries Software**.
 
 - Former Software Engineer at **Wind Integrated Solutions**.
 
